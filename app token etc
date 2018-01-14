@@ -1,0 +1,10 @@
+CLIENT_ID=142363488615.298582794645 CLIENT_SECRET=0f4359085568abc8bfaa9ebb24083c11 VERIFICATION_TOKEN=DE8AjtgzxEczeqwp3XyScOm7 PORT=8765
+
+
+
+
+myslashcommand.localtunnel.me
+
+http://myslashcommand.localtunnel.me:8765/login
+
+https://awesomeslashcommand.localtunnel.me:8765/login/
